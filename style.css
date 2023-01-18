@@ -1,0 +1,60 @@
+.carousel-item img {
+    height: 600px;
+    max-width: 100%;
+  }
+
+  .centered {
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: teal;
+    background-color: thistle;
+    font-size: large;
+    font-weight: bold;
+  }
+  .centered h1{
+    text-align: center;
+  }
+
+  .options {
+    background-color: black;
+    margin-top: 10px;
+    color: white;
+  }
+
+  .menuItem {
+    background-color: white;
+    color: black;
+    width: 70%;
+    text-align: center;
+    padding: 2px;
+    margin: 0 auto;
+  }
+
+  .nav.nav-pills a.active {
+    background-color: red;
+  }
+
+  .nav-pills {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+    font-weight: bold;
+    background-color: bisque;
+  }
+
+  .menuOption {
+    background-color: wheat;
+    color: black;
+    width: 70%;
+    padding: 10px;
+    margin: 0 auto;
+  }
+
+  .menuOption h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+
+  .menuOption p {
+    font-family: 'Courier New', Courier, monospace;
+  }
